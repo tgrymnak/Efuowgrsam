@@ -10,5 +10,3 @@ Check out the [getting started guide](https://github.com/tgrymnak/Efuowgrsam/wik
 First, [install NuGet](http://docs.nuget.org/docs/start-here/installing-nuget). Then, install [EfouwGrsam](https://www.nuget.org/packages/EfuowGrsam/) from the package manager console:
 
     PM> Install-Package EfuowGrsam
-
-EfuowGrsam is Copyright &copy; 2016 Taras Grymnak under the [MIT license](https://github.com/tgrymnak/Efuowgrsam/blob/master/LICENSE).
